@@ -1,1 +1,1 @@
-# RazorPay-Clonr
+# RazorPay-Clone
